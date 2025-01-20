@@ -1,0 +1,5 @@
+﻿model Model
+	culture: en-US
+
+ref cultureInfo en-US
+
